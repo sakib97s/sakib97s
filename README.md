@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-- Skype:- live:.cid.24621ff21b6401a9
-- Instagram: sakib9s
-- Facebook: facebook.com/sakibyour/
-- Whatsapp: 01797834261
 
 
 <!---
